@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="textview">TextView</string>
+    <string name="days_until_shikha_is_back">Days until Shikha is back</string>
+</resources>
